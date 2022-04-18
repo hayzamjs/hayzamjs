@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Hayzam. I'm an entrepreneur and an eternal studnet! I love working with P2P technologies and contributing to opensource projects in my free time.
+I am Hayzam. I'm an entrepreneur and an eternal student! I love working with P2P technologies and contributing to opensource projects in my free time.
  
 ## Github Overview
 
