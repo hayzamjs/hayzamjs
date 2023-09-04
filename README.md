@@ -9,7 +9,9 @@ You can find me sharing insights on my blog, or catch up with me on X, Instagram
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hayzam.ts)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hayzam-s-2b9b95139/)
 
-<img align="right" alt="Hayzam's Stats" src="https://github-readme-stats.vercel.app/api?username=hayzamjs&show_icons=true" />
+<table width="100%">
+<tr>
+<td width="50%">
 
 ## Tools
 
@@ -32,6 +34,17 @@ You can find me sharing insights on my blog, or catch up with me on X, Instagram
 ![SQLite](https://img.shields.io/badge/-SQLite-000000?style=flat&logo=sqlite)
 ![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis)
 ![Cassandra](https://img.shields.io/badge/-Cassandra-000000?style=flat&logo=apache-cassandra)
+</div>
+
+<td width="50%">
+ 
+[![Hayzam's Github stats-dark](https://github-readme-stats.vercel.app/api?username=hayzamjs&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+ 
+[![Hayzam's Github stats-light](https://github-readme-stats.vercel.app/api?username=hayzamjs&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+</td>
+</tr>
+</table>
  
 ## Github Overview
 
