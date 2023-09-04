@@ -1,6 +1,37 @@
 ### Hi there 👋
 
- I am Hayzam. I'm an entrepreneur and an eternal student! I love working with P2P technologies and contributing to open source projects in my free time.
+I am Hayzam. I'm an entrepreneur and an eternal student! I love working with P2P technologies and contributing to open source projects in my free time.
+
+You can find me sharing insights on my blog, or catch up with me on X, Instagram, and LinkedIn.
+
+[![Blog](https://img.shields.io/badge/Blog-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://hayzam.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/hayzam_js)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hayzam.ts)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hayzam-s-2b9b95139/)
+
+<img align="right" alt="Hayzam's Stats" src="https://github-readme-stats.vercel.app/api?username=hayzamjs&show_icons=true" />
+
+## Tools
+
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![CLion](https://img.shields.io/badge/-CLion-000000?style=flat&logo=CLion)
+![GoLand](https://img.shields.io/badge/-GoLand-000000?style=flat&logo=Goland)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=PyCharm)
+![Webstorm](https://img.shields.io/badge/-WebStorm-000000?style=flat&logo=WebStorm)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
+![Nginx](https://img.shields.io/badge/-Nginx-000000?style=flat&logo=nginx)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=jenkins)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes)
+![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws)
+
+## Databases
+
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+![SQLite](https://img.shields.io/badge/-SQLite-000000?style=flat&logo=sqlite)
+![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis)
+![Cassandra](https://img.shields.io/badge/-Cassandra-000000?style=flat&logo=apache-cassandra)
  
 ## Github Overview
 
@@ -72,17 +103,9 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
  Last Updated on 04/09/2023 19:45:21 UTC
 <!--END_SECTION:waka-->
-<img align="right" alt="Hayzam's Stats" src="https://github-readme-stats.vercel.app/api?username=hayzamjs&show_icons=true" />
 
 
-## Tools
+### Note 
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-![CLion](https://img.shields.io/badge/-CLion-000000?style=flat&logo=CLion)
-![GoLand](https://img.shields.io/badge/-GoLand-000000?style=flat&logo=Goland)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=PyCharm)
-![Webstorm](https://img.shields.io/badge/-WebStorm-000000?style=flat&logo=WebStorm)
+:information_source: The "Top languages" section does not necessarily indicate my skill level or expertise. It simply represents a metric of the languages most frequently used in the repositories I have hosted on GitHub. There are several other languages and projects that I work with which may not be represented here. 
 
-## Databases
-
-<br><br>
