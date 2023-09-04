@@ -13,13 +13,13 @@ You can find me sharing insights on my blog, or catch up with me on X, Instagram
 <tr>
 <td width="50%">
 
-## Tools
+## Editors & Tools
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![CLion](https://img.shields.io/badge/-CLion-000000?style=flat&logo=CLion)
 ![GoLand](https://img.shields.io/badge/-GoLand-000000?style=flat&logo=Goland)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=PyCharm)
 ![Webstorm](https://img.shields.io/badge/-WebStorm-000000?style=flat&logo=WebStorm)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 ![Nginx](https://img.shields.io/badge/-Nginx-000000?style=flat&logo=nginx)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-000000?style=flat&logo=jenkins)
