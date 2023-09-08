@@ -50,9 +50,9 @@ You can find me sharing insights on my blog, or catch up with me on X, Instagram
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2050%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-157-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-162-blue)
 
 **I'm a Night 🦉** 
 
@@ -114,7 +114,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayzamjs/hayzamjs/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2023 13:02:10 UTC
+ Last Updated on 08/09/2023 18:36:56 UTC
 <!--END_SECTION:waka-->
 
 
