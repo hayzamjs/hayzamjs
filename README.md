@@ -52,7 +52,7 @@ You can find me sharing insights on my blog, or catch up with me on X, Instagram
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-734%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 **I'm a Night 🦉** 
 
@@ -107,7 +107,7 @@ C++                      8 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayzamjs/hayzamjs/main/assets/bar_graph.png)
 
 
- Last Updated on 07/05/2024 18:37:23 UTC
+ Last Updated on 08/05/2024 18:37:06 UTC
 <!--END_SECTION:waka-->
 
 
