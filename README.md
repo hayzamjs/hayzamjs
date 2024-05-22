@@ -50,9 +50,9 @@ You can find me sharing insights on my blog, or catch up with me on X, Instagram
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-753%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-753%20hrs%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm a Night 🦉** 
 
@@ -81,10 +81,10 @@ Sunday                   775 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     5 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   34.90 % 
-Go                       4 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   31.24 % 
+HTML                     5 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   35.94 % 
+Go                       4 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   29.01 % 
 C                        1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-JavaScript               1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+JavaScript               1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
 Text                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 
 🔥 Editors: 
@@ -112,7 +112,7 @@ C++                      8 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayzamjs/hayzamjs/main/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2024 18:37:09 UTC
+ Last Updated on 22/05/2024 18:38:19 UTC
 <!--END_SECTION:waka-->
 
 
