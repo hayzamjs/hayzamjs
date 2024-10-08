@@ -50,9 +50,9 @@ You can find me sharing insights on my blog, or catch up with me on X, Instagram
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C204%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C211%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **I'm a Night 🦉** 
 
@@ -81,17 +81,17 @@ Sunday                   782 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Svelte                   13 hrs 18 mins      ██████████░░░░░░░░░░░░░░░   38.73 % 
-Go                       9 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   26.61 % 
-TypeScript               4 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-JavaScript               2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-Other                    2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+Svelte                   13 hrs 43 mins      █████████░░░░░░░░░░░░░░░░   34.61 % 
+Go                       9 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
+TypeScript               5 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+JavaScript               3 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+Other                    2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
 
 🔥 Editors: 
-VS Code                  34 hrs 21 mins      █████████████████████████   100.00 % 
+VS Code                  39 hrs 40 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    34 hrs 21 mins      █████████████████████████   100.00 % 
+Linux                    39 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -111,7 +111,7 @@ C++                      6 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayzamjs/hayzamjs/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2024 18:43:15 UTC
+ Last Updated on 08/10/2024 18:42:40 UTC
 <!--END_SECTION:waka-->
 
 
