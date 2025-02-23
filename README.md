@@ -50,7 +50,7 @@ You can find me sharing insights on my blog, or catch up with me on X, Instagram
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C734%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C739%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -81,17 +81,17 @@ Sunday                   442 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-Svelte                   7 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   31.33 % 
-JavaScript               5 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
-Other                    4 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-TypeScript               1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-Objective-C              1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+Svelte                   7 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   28.38 % 
+JavaScript               5 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+Other                    5 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+TypeScript               2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+EJS                      1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 46 mins      █████████████████████████   100.00 % 
+VS Code                  27 hrs 20 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    24 hrs 46 mins      █████████████████████████   100.00 % 
+Linux                    27 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -111,7 +111,7 @@ Svelte                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayzamjs/hayzamjs/main/assets/bar_graph.png)
 
 
- Last Updated on 22/02/2025 18:40:46 UTC
+ Last Updated on 23/02/2025 18:40:30 UTC
 <!--END_SECTION:waka-->
 
 
