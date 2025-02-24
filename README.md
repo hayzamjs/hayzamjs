@@ -50,9 +50,9 @@ You can find me sharing insights on my blog, or catch up with me on X, Instagram
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C739%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C742%20hrs%2033%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm a Night 🦉** 
 
@@ -81,17 +81,18 @@ Sunday                   442 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-Svelte                   7 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   28.38 % 
-JavaScript               5 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-Other                    5 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
-TypeScript               2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-EJS                      1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+Svelte                   7 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   28.99 % 
+JavaScript               5 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
+Other                    5 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
+TypeScript               2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+EJS                      1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 
 🔥 Editors: 
-VS Code                  27 hrs 20 mins      █████████████████████████   100.00 % 
+VS Code                  26 hrs 44 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    27 hrs 20 mins      █████████████████████████   100.00 % 
+Linux                    25 hrs 51 mins      ████████████████████████░   96.66 % 
+Mac                      53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -111,7 +112,7 @@ Svelte                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hayzamjs/hayzamjs/main/assets/bar_graph.png)
 
 
- Last Updated on 23/02/2025 18:40:30 UTC
+ Last Updated on 24/02/2025 18:43:17 UTC
 <!--END_SECTION:waka-->
 
 
